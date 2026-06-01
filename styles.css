@@ -11,12 +11,15 @@ body {
 }
 
 .container,
-.time{
+.time,
+.date{
   display: flex;
   justify-content: center ;
 }
 
-.time p{
+
+.time p,
+.date p{
   display: flex;
   justify-content: center;
   align-items: center;
